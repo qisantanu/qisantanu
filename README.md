@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 #### Contribution to the world
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=qisantanu&show_icons=true&theme=radical) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="giphy.gif" width="195">
+![My github stats](https://github-readme-stats.vercel.app/api?username=qisantanu&show_icons=true&theme=radical) 
 
 
  [![trophy](https://github-profile-trophy.vercel.app/?username=qisantanu&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)](https://github-profile-trophy.vercel.app/?username=qisantanu&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)
