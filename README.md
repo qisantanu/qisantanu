@@ -33,10 +33,10 @@ Here are some ideas to get you started:
 #### Contribution to the world
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=qisantanu&show_icons=true&theme=radical) 
-
+![qisantanu's Streak](https://github-readme-streak-stats.herokuapp.com/?user=qisantanu&theme=vue-dark&hide_border=false)
 
  [![trophy](https://github-profile-trophy.vercel.app/?username=qisantanu&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)](https://github-profile-trophy.vercel.app/?username=qisantanu&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)
- [![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=qisantanu&hide=javascript,css,scss,html&theme=tokyonight)](https://github-readme-stats.vercel.app/api/top-langs/?username=qisantanu&hide=javascript,css,scss,html&theme=tokyonight) [![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=santattech&hide=javascript,css,scss,html&theme=tokyonight)](https://github-readme-stats.vercel.app/api/top-langs/?username=santattech&hide=javascript,css,scss,html&theme=tokyonight)
+ ![qisantanu's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=qisantanu&theme=vue-dark&show_icons=true&hide_border=false&layout=compact) [![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=santattech&theme=tokyonight)](https://github-readme-stats.vercel.app/api/top-langs/?username=santattech&theme=tokyonight)
   
 <h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
 
