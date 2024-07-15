@@ -23,10 +23,10 @@ Here are some ideas to get you started:
 ```css
 #qisantanu { 
   position: Kolkata; 
-  height: 177cm; 
+  height: 172cm; 
   display: boy; 
   background: Software 🔨; 
-  color: yellow 
+  color: #EEDBD1 
 }
 ```
 
