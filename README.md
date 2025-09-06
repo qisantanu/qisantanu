@@ -30,20 +30,31 @@ Here are some ideas to get you started:
 }
 ```
 
-## 📫 Connect with me
+### 📊 Github stats and Achievements
+
+#### Primary
+![qisantanu's Streak](https://github-readme-streak-stats.herokuapp.com/?user=qisantanu&theme=vue-dark&hide_border=false)
+
+#### Secondary
+![qisantanu's Streak](https://github-readme-streak-stats.herokuapp.com/?user=santattech&theme=vue-dark&hide_border=false)
+
+<!-- ![My github stats](https://github-readme-stats.vercel.app/api?username=qisantanu&show_icons=true&theme=radical)  -->
+
+ [![trophy](https://github-profile-trophy.vercel.app/?username=qisantanu&theme=juicyfresh&no-frame=true&row=1&&margin-w=20)](https://github-profile-trophy.vercel.app/?username=qisantanu&theme=juicyfresh&no-frame=true&row=1&&margin-w=20)
+<br/>
+
+ ![qisantanu's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=qisantanu&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
+ 
+ ![santattech's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=santattech&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
+
+ <!-- [![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=santattech&theme=vue-dark)](https://github-readme-stats.vercel.app/api/top-langs/?username=santattech&theme=tokyonight) -->
+
+ ## 📫 Connect with me
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/qisantanu)
 [![X](https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/santattech)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santanu-bhattacharya-37942715/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:santattech@gmail.com)
 
-
-#### Contribution to the world
-
-![My github stats](https://github-readme-stats.vercel.app/api?username=qisantanu&show_icons=true&theme=radical) 
-![qisantanu's Streak](https://github-readme-streak-stats.herokuapp.com/?user=qisantanu&theme=vue-dark&hide_border=false)
-
- [![trophy](https://github-profile-trophy.vercel.app/?username=qisantanu&theme=juicyfresh&no-frame=true&row=1&&margin-w=20)](https://github-profile-trophy.vercel.app/?username=qisantanu&theme=juicyfresh&no-frame=true&row=1&&margin-w=20)
- ![qisantanu's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=qisantanu&theme=vue-dark&show_icons=true&hide_border=false&layout=compact) [![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=santattech&theme=tokyonight)](https://github-readme-stats.vercel.app/api/top-langs/?username=santattech&theme=tokyonight)
   
 <h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
 
